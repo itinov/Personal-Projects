@@ -1,2 +1,2 @@
-# Personal-Project
-Various Personal Projects I have worked on by myself
+# Messing Around
+Early days of programming
